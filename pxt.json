@@ -1,5 +1,6 @@
 {
     "name": "space game name needed alfa 4 bug fix",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
